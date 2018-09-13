@@ -24,7 +24,7 @@ ec2-metadata==1.6.0
 elasticsearch==5.5.3  # pyup: >=5.0.0,<6.0.0
 feedparser==5.2.1
 geoip2==2.8.0
-geopy==1.14.0
+geopy==1.17.0
 gunicorn==19.8.1
 html5lib==1.0.1
 httmock==1.2.6
