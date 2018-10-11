@@ -1,0 +1,4 @@
+build:
+  image: latest
+
+formats: []
